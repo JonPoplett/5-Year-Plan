@@ -1,3 +1,5 @@
+Here is a Tutorial of our model in action - https://youtu.be/BBtiPWvnFMY
+
 1.0 Introduce the complexity/counter-complexity quantum energy mapping model. Status - Complete
 
         
